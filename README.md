@@ -1,154 +1,23 @@
-👋 Hi, I'm Nikhil Koshta
-========================
+<h1 align="center">Hi 👋, I'm Nikhil Koshta</h1>
+<h3 align="center">🚀 AI Full Stack Engineer | Building Scalable SaaS Products | React, Node, Next.js | OpenAI, LangChain</h3>
 
-### 🚀 Full-Stack Developer | Open Source Enthusiast | Tech Explorer
+- 🔭 I’m currently working on [resumizer](https://github.com/nikhilkoshta/resumizer)
 
-Welcome to my GitHub profile! I love building **scalable web applications**, experimenting with **modern frameworks**, and sharing projects that make learning and collaboration easier.
+- 👨‍💻 All of my projects are available at [https://nikhilkoshta-portfolio.vercel.app/](https://nikhilkoshta-portfolio.vercel.app/)
 
-* * * * *
+- 💬 Ask me about **Life, How to build things, How to try different things - In short : How to f*ck around and find out!**
 
-🧑‍💻 About Me
---------------
+- 📫 How to reach me **nikhilkoshta.work@gmail.com**
 
--   🌍 Based in **Earth-616** (yes, I like to keep things fun!)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1e09ryOtgzASPo0NUOSxYued_SBPhvtrs/view?usp=drive_link](https://drive.google.com/file/d/1e09ryOtgzASPo0NUOSxYued_SBPhvtrs/view?usp=drive_link)
 
--   💡 Passionate about **TypeScript, [Next.js](https://Next.js), JavaScript, and modern web technologies**
+- ⚡ Fun fact **I think I'll become a billionaire by the time I'm 28 (No, I'm not delusional)**
 
--   📚 I enjoy creating apps that combine **utility + creativity** (from personal tools to learning platforms)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/nikhildotdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikhildotdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikhilkoshta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilkoshta" height="30" width="40" /></a>
+</p>
 
--   ✨ Always exploring new ideas and contributing to open-source projects
-
-* * * * *
-
-🔧 Tech Stack
--------------
-
-Here are the tools and technologies I work with most often:
-
--   **Languages:** TypeScript, JavaScript, HTML, CSS
-
--   **Frameworks & Libraries:** [Next.js](https://Next.js), React, [Node.js](https://Node.js)
-
--   **Databases:** MongoDB, PostgreSQL, Firebase
-
--   **Other Tools:** Git, REST APIs, GraphQL, Docker
-
-* * * * *
-
-📌 Featured Projects
---------------------
-
-|
-
-Project
-
- |
-
-Tech
-
- |
-
-Description
-
- |
-|
-
-Medium Blog App [(github.com in Bing)](https://www.bing.com/search?q=%22https%3A%2F%2Fgithub.com%2Fnikhilkoshta%2Fmedium-blog-app%22)
-
- |
-
-TypeScript, [Next.js](https://Next.js)
-
- |
-
-A blogging platform inspired by Medium with modern UI and scalable architecture.
-
- |
-|
-
-PayMoney [(github.com in Bing)](https://www.bing.com/search?q=%22https%3A%2F%2Fgithub.com%2Fnikhilkoshta%2FpayMoney%22)
-
- |
-
-JavaScript
-
- |
-
-A simple yet effective money management app.
-
- |
-|
-
-Personal Bookshelf [(github.com in Bing)](https://www.bing.com/search?q=%22https%3A%2F%2Fgithub.com%2Fnikhilkoshta%2Fpersonal-bookshelf%22)
-
- |
-
-TypeScript
-
- |
-
-Organize and track your reading journey with this digital bookshelf.
-
- |
-|
-
-Ask Your PDF [(github.com in Bing)](https://www.bing.com/search?q=%22https%3A%2F%2Fgithub.com%2Fnikhilkoshta%2Fask-your-pdf%22)
-
- |
-
-TypeScript
-
- |
-
-Query and interact with PDFs using smart search features.
-
- |
-|
-
-Chess Courses [(github.com in Bing)](https://www.bing.com/search?q=%22https%3A%2F%2Fgithub.com%2Fnikhilkoshta%2FChessCourses%22)
-
- |
-
-HTML
-
- |
-
-A learning platform for chess enthusiasts.
-
- |
-
-* * * * *
-
-🏆 Achievements
----------------
-
--   🔥 70+ repositories showcasing diverse projects
-
--   🌟 Active in open-source contributions and collaborations
-
--   📈 Constantly learning and experimenting with new technologies
-
-* * * * *
-
-📫 Connect With Me
-------------------
-
--   🌐 Portfolio: [nikhildotdev](https://github.com/nikhilkoshta)
-
--   💼 LinkedIn: [linkedin.com/in/nikhilkoshta](https://linkedin.com/in/nikhilkoshta) [(linkedin.com in Bing)](https://www.bing.com/search?q=%22https%3A%2F%2Flinkedin.com%2Fin%2Fnikhilkoshta%22)
-
--   🐦 Twitter: @nikhildotdev [(twitter.com in Bing)](https://www.bing.com/search?q=%22https%3A%2F%2Ftwitter.com%2Fnikhildotdev%22)
-
-* * * * *
-
-✨ Fun Fact
-----------
-
-I believe coding is not just about solving problems---it's about **creating experiences** that people love to use.
-
-* * * * *
-
-### 📊 GitHub Stats
-
-[`https://github-readme-stats.vercel.app/api?username=nikhilkoshta&show_icons=true&theme=radical`](https://github-readme-stats.vercel.app/api?username=nikhilkoshta&show_icons=true&theme=radical)\
-[`https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkoshta&layout=compact&theme=radical`](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkoshta&layout=compact&theme=radical)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
